@@ -1,11 +1,11 @@
-### 嗨 👋🏽, 我是[翠花](https://www.nange.cn)!
+### 嗨 👋🏽, 我是[翠花](https://franklyzzm.github.io)!
 
-<a href="https://twitter.com/PeinanXu">
-  <img align="left" alt="佩佩 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://t.me/Nan_Ge">
+<a href="https://twitter.com/F">
+  <img align="left" alt="T | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://t.me/">
   <img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/nange.cn/">
+<a href="https://www.instagram.com//">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -26,14 +26,14 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
 
 
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=xos&show_icons=true&hide_border=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=franklyzzm&show_icons=true&hide_border=true)
 
-⭐️ From [XOS](https://github.com/xos)
+⭐️ From [Franklyzzm](https://github.com/franklyzzm)
 
 
-<a href="https://github.com/xos/Profiles">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Profiles" />
+<a href="https://github.com/franklyzzm/Profiles">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=franklyzzm&repo=Profiles" />
 </a>
-<a href="https://github.com/xos/Nange">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xos&repo=Nange" />
+<a href="https://github.com/franklyzzm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=frankly&repo=" />
 </a>
