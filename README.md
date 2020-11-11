@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm , a Full Stack Developer 🚀 from China.
+Hi, I'm , a Developer 🚀 from China.
 
 **Languages and Tools:**  
 
@@ -29,7 +29,6 @@ Hi, I'm , a Full Stack Developer 🚀 from China.
 ![my github stats](https://github-readme-stats.vercel.app/api?username=franklyzzm&show_icons=true&hide_border=true)
 
 ⭐️ From [Franklyzzm](https://github.com/franklyzzm)
-
 
 <a href="https://github.com/franklyzzm/Profiles">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=franklyzzm&repo=Profiles" />
