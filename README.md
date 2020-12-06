@@ -17,6 +17,7 @@ following:
 ```
 Where `[ICON NAME]` is replaced by the icon name, for example:
 -->
+<br />
 
 Hi, I'm , a Developer 🚀 from China.
 
@@ -34,12 +35,15 @@ Hi, I'm , a Developer 🚀 from China.
 [![](https://img.shields.io/badge/Ubuntu-Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.com/)
 [![](https://img.shields.io/badge/macOS-Macintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)<!--tonymacx86-->
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+
 [![](https://img.shields.io/badge/iPhone-SE-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
+
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+
 
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -59,10 +63,7 @@ Hi, I'm , a Developer 🚀 from China.
 
 
 
-
-
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Franklyzzm&show_icons=true&hide_border=true)
-
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=Franklyzzm&show_icons=true&count_private=true&hide=prs&theme=default_repocard) -->
 
 ⭐️ From [Franklyzzm](https://github.com/franklyzzm)
