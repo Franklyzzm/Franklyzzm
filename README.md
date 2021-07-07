@@ -38,6 +38,7 @@ Hi, I'm , a Developer 🚀 from China.
 
 [![](https://img.shields.io/badge/iPhone-SE-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
 [![](https://img.shields.io/badge/iPhone-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
+[![](https://img.shields.io/badge/huawei?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.blackberry.com/)
   
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
